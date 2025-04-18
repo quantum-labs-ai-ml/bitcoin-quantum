@@ -1,6 +1,8 @@
-# Bitcoin Cryptography Demo
+# Bitcoin Cryptography Demo 💻
 
  Demo project about breaking Bitcoin cryptography using Quatum technology 
+
+**Project idead by Rsync25**
 
 ## Overview
 This project demonstrates a simplified version of Bitcoin's cryptography, specifically the Elliptic Curve Digital Signature Algorithm (ECDSA), using a toy elliptic curve with intentionally small parameters. The goal is to illustrate how Bitcoin's cryptographic principles work and to show how a brute-force attack can exploit weak parameters. This is for educational purposes only and does not reflect Bitcoin's actual security, which uses the secure secp256k1 curve with large parameters.
