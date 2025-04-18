@@ -88,7 +88,7 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-*This project is for educational purposes only. Do not use it for real cryptographic applications. Bitcoin's actual cryptography is secure and should not be confused with this simplified demo.
+**This project is for educational purposes only. Do not use it for real cryptographic applications. Bitcoin's actual cryptography is secure and should not be confused with this simplified demo.
 
-Created as part of an educational exercise to explore cryptographic principles.*
+Created as part of an educational exercise to explore cryptographic principles.**
 
