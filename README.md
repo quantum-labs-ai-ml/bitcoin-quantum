@@ -1,4 +1,4 @@
-# Bitcoin Cryptography Demo 💻
+# Bitcoin Cryptography Demo 💻🪙🔑
 
  Demo project about breaking Bitcoin cryptography using Quatum technology 
 
